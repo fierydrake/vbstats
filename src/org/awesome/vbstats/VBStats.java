@@ -1,4 +1,6 @@
-package org.swesome.vbstats;
+package org.awesome.vbstats;
+
+import org.awesome.vbstats.R;
 
 import android.app.Activity;
 import android.os.Bundle;
